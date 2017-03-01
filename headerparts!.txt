@@ -1,0 +1,5 @@
+<li id='headerButton'><a <?php if($_SERVER['PHP_SELF']=="/me.php"){
+			  echo("id = 'curPage'");}
+			  ;?>href='me.php'>Me</a></li>
+			  <li id='headerButton'><a <?php if($_SERVER['PHP_SELF']=="/about.php"){
+			  echo("id = 'curPage'");};?>href='about.php'>About</a></li>
