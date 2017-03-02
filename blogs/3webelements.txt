@@ -1,0 +1,43 @@
+Interactive Web Elements
+Austin Nantkes
+2/28/2017 @ 11:01pm
+
+Working at Colby Communications has allowed me to work hands on with a lot of different things. 
+Recently I was tasked with recreating a few things that Colby uses, so that we have inhouse solutions instead of using other people's code.
+
+Note that these are both still in the development stage, but here is an accordion and modal example I've been working on by myself.
+<article class=accordion><section>
+    <h1 class=accordion-toggler>
+      <a href=#>Accordion</a></h1><div class=accordion-content><p>Join Colby Hackers, we do cool stuff I promise.</p></div></section></article>
+<div class=modal__container>
+   <a class=modal__activator href=#>Activate modal</a><div class=modal__content>
+       <button aria-label="close" class=modal__close>&#10006;</button>
+       <h3>Modal Title1</h3><p>Modal Information1</p>
+       <button aria-label="Previous Modal" class=modal__left>&#171;</button>
+       <button aria-label="Next Modal" class=modal__right>&#187;</button>
+  </div>
+</div>
+<div class=modal__container>
+   <a class=modal__activator href=#>Activate modal</a><div class=modal__content>
+       <button aria-label="close" class=modal__close>&#10006;</button>
+       <h3>Modal Title2</h3>
+       <p>Modal Information2</p>
+       <button aria-label="Previous Modal" class=modal__left>&#171;</button>
+       <button aria-label="Next Modal" class=modal__right>&#187;</button>
+  </div>
+</div>
+<div class=modal__container>
+   <a class=modal__activator href=#>Activate modal</a><div class=modal__content>
+       <button aria-label="close" class=modal__close>&#10006;</button>
+       <h3>Modal Title3</h3>
+       <p>Modal Information3</p>
+       <button aria-label="Previous Modal" class=modal__left>&#171;</button>
+       <button aria-label="Next Modal" class=modal__right>&#187;</button>
+  </div>
+</div>
+<script src="accordion.js">
+
+</script>
+<script src="modal.js">
+
+</script>

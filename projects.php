@@ -1,9 +1,9 @@
 <?php include('header.php');?>
-<div style="background:#2B2D38; color:#08a4bd; font-size:26px;overflow:auto;padding-left:20px;">
+<div style='overflow:hidden' id="projBody">
 
 <h1 style="font-size:120px;">HYK</h1>
 
-<img style="float:right;top:100px;position:absolute;right:5%;width:25%" src='img/main.png'>
+<img id="mainImg" src='img/main.png'>
 
 HYK is a realtime group location-sharing and messaging app.
 Use HYK to:

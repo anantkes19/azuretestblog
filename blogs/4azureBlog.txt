@@ -1,0 +1,19 @@
+Interactive Web Elements
+Austin Nantkes
+3/01/2017 @ 10:08am
+
+So I threw this blog together with only a couple days of work, using what little knowledge of PhP I knew, along with my rudimentary web design experience. I know it's not perfect, it was never meant to be, nor is this going to be an actual blog for me. I used this as a testing ground. All the code was done myself, all the layout and framework too. So for original code, I've got that down, the design? Not so much...
+<h4>What was Easy<?/h4>I honestly left setting up the azure part until Feb 28th, a little last minute I know, and something I thought would take a couple of hours. Instead I had everything from uploading to Github to seeing my site for the first time in about 20 minutes. 
+<h4>Challenges</h4>The only challenges I really ran into was making all the css and html elements work well together and flow well at different sizes, but due to time constraints, like from the CBBhackathon and other projects I didn't have a lot of time to do this.
+
+You'll notice that not 'everything' works 100% at small widths, but a majority does, I didn't want to add a hamburger menu for the menu bar at small widths as I felt I had more important features to add.
+
+Another thing to work through was figuring out PhP to do exactly what I wanted, but it was fairly easy to work through. I enjoyed being able to do whatever I wanted with this project in regards to how it looks and is formatted. Normally at my job I fit a certain mold and have to stick to it.
+
+<h4>Using Azure</h4>Working with Azure was actually pretty easy. I have never worked with an online cloud hosting service so as a complete newcomer this wasn't impossible to do. I was going to follow an online guide but instead decided on trying it myself, and linking it to my github was really easy. Looking through all the tools and documentation, I really do like how Azure is customizable yet easy to use.
+
+The one annoyance I have with the system is moving the location of my web 'app' to a new location, and I accidentally set it up in South Central US. To change it (from what I gathered at least), I had to relaunch my site, which using github is fairly easy to do, but I was surprised it wasn't as easy as some other things like "Change Location" and wait a few minutes.
+
+<h4>Conclusion</h4>I would use Azure again (and probably will) for any small hosting needs I have. I know for a brand new user this could be overwhelming with the large volume of tools and settings your given, and big names people have never seen. But there are guides and tutorials for that reason!
+I found it quick, simple and easy to port over my local XAMPP installation to Azure using github, and wouldn't do it any other way. This works, and it's simple.
+
