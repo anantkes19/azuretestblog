@@ -6,9 +6,9 @@ So I threw this blog together with only a couple days of work, using what little
 <h4>What was Easy</h4>I honestly left setting up the azure part until Feb 28th, a little last minute I know, and something I thought would take a couple of hours. Instead I had everything from uploading to Github to seeing my site for the first time in about 20 minutes. 
 <h4>Challenges</h4>The only challenges I really ran into was making all the css and html elements work well together and flow well at different sizes, but due to time constraints, like from the CBBhackathon and other projects I didn't have a lot of time to do this.
 
-You'll notice that not 'everything' works 100% at small widths, but a majority does, I didn't want to add a hamburger menu for the menu bar at small widths as I felt I had more important features to add.
+You'll notice that not 'everything' works 100% at small widths, but a majority does, I didn't want to add a hamburger menu for the menu bar at small widths as I felt I had more important features to add. I also know that the sidebar links to the basic .txt, as that's how I actually save each of these blog posts. This explained better below.
 
-A challenge I put on myself was using PhP to load and sort the blog posts instead of an application that was built for it, as I wanted this to be a learning experience!
+A challenge I put on myself was using PhP to load and sort the blog posts instead of an application that was built for it, as I wanted this to be a learning experience! I know my method isn't usual (should've/could've used a database), but I didn't have time for that, nor did I have any experience with it.
 
 Another thing to work through was figuring out PhP to do exactly what I wanted, but it was fairly easy to work through. I enjoyed being able to do whatever I wanted with this project in regards to how it looks and is formatted. Normally at my job I fit a certain mold and have to stick to it.
 
