@@ -31,7 +31,7 @@ echo("<div id = 'blogList'>");
 echo('<ol>');
 for ($i=0;$i<sizeOf($files) and $i < 10;$i++) {
     $file = "blogs/" . (string)$files[$i];
-    echo("<li><a href=" . 'http://localhost:8080/'.$file.'>' . substr($file,7) . '</a></li>');#Cheating here with the name, sue me.
+    echo("<li><a href=" .$file.'>' . substr($file,7) . '</a></li>');#Cheating here with the name, sue me.
 }
 echo('</ol>');
 echo("</div>");
